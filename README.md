@@ -4,6 +4,8 @@ An application powered by Django-Rest-Framework, featuring:
 - Creating an Project/Task to manage expense
 - Associate a category to the Project/Task
 - Add,Update & Delete expenses.
+- Email update after every expense update.
+- Email Alert on low running budget.
 
 API Endpoints:
 
